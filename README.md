@@ -97,28 +97,28 @@ Se o CEP não existir, a API retorna:
 
 - Validação de CEP existente ou não.
 - Construção do objeto Address.
-- Para rodar os testes:
 
-bash
-Copiar
-Editar
+### Para rodar os testes:
+
+```bash
 mvn test
+```
 🔧 Como executar
 Clone o repositório:
 
-bash
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
-
+```
 ### Navegue até o diretório:
 
-bash
+```bash
 cd seu-repositorio
-
+```
 ### Execute o projeto:
 
-bash
+```bash
 mvn spring-boot:run
-
+```
 ## 📄 Exemplo JSON de Cadastro
 ```json
 
